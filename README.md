@@ -2,7 +2,7 @@
 
 Analyse de la ponctualité des lignes TGV nationales à partir des données publiques de la SNCF, afin d'identifier les lignes les plus en retard et d'évaluer si ces écarts sont statistiquement significatifs.
 
-![Dashboard - Ponctualité des lignes TGV de la SNCF](dashboard.jpg)
+
 
 ## Sommaire
 
